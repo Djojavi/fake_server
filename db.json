@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Daniel Jaramillo",
+      "email":"djaramillo@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Pedro Perez",
+      "email":"pperez@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Gabriela Mera",
+      "email":"gmera@gmail.com"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
